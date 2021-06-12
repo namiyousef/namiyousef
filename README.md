@@ -3,17 +3,13 @@
 I'm **Yousef Nami**, a machine learning enthusiast and Mechanical Engineer. I'm interested in Machine Learning, in Natural Language Processing and the intersection between classical sciences and data. 
 
 **Pinned:**
-- ⚡ [Novelty Detection in Scientific Research Papers]()
-- ⚡ [AIHack 2021: how does developing low-income towns affect NOx levels?]()
-- ⚡ 
+- ⚡ [Novelty Detection in Scientific Research Papers](https://github.com/namiyousef/novelty_detection)
+- ⚡ [AIHack 2021: how does developing low-income towns affect NOx levels?](https://github.com/namiyousef/ai_hack_2021)
 
 **Updates:**
 - 🔭 I’m currently working on an NLP based toolkit for detecting Novelty in scientific research papers
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on an NLP based reinforcement learning project for information retrieval
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
