@@ -24,4 +24,4 @@ I'm **Yousef Nami**, a machine learning enthusiast and Mechanical Engineer. I'm 
 
 ### Languages and Tools
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=namiyousef&theme=radical)
-![Thinam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThinamXx&hide=prs,issues,contribs?username=ThinamXx&count_private=true?username=ThinamXx&show_icons=true&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=namiyousef&hide=prs,issues,contribs?username=namiyousef&count_private=true?username=namiyousef&show_icons=true&theme=radical)
