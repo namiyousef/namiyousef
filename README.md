@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Yousef, welcome to my GitHub profile!
 
-I'm **Yousef Nami**, a machine learning enthusiast and Mechanical Engineer. I'm interested in Machine Learning, in Natural Language Processing and the intersection between classical sciences and data. 
+I'm **Yousef Nami**, a Data Scientist with a background in Mechanical Engineering. I'm interested in Machine Learning, Natural Language Processing and the intersection between classical sciences and data.
 
 **Pinned:**
 - ⚡ [Novelty Detection in Scientific Research Papers](https://github.com/namiyousef/novelty_detection)
