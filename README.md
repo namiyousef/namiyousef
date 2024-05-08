@@ -9,6 +9,4 @@
 - ✏️ [Medium](https://namiyousef96.medium.com/)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/namiyousef96)
 
-### Languages and Tools
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=namiyousef&theme=radical)
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=namiyousef&hide=prs,issues,contribs?username=namiyousef&count_private=true?username=namiyousef&show_icons=true&theme=radical)
