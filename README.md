@@ -1,4 +1,4 @@
-### Hi I'm Yousef, a Software Engineer with background in Machine Learning.
+### I'm Yousef, a Software Engineer with background in Machine Learning.
 
 **Current Projects:**
 - ⚡ [In-N-Out: FastAPI app to universalise read-write](https://github.com/namiyousef/in-n-out)
