@@ -1,23 +1,13 @@
-### Hi 👋, I'm Yousef, welcome to my GitHub profile!
+### Hi I'm Yousef, a Software Engineer with background in Machine Learning.
 
-I'm **Yousef Nami**, a Data Scientist with a background in Mechanical Engineering. I'm interested in Machine Learning, Natural Language Processing and the intersection between classical sciences and data.
-
-**Pinned:**
-- ⚡ [ArgMiner: A PyTorch based library for argument mining](https://github.com/namiyousef/argument-mining)
-- ⚡ [Novelty Detection in Scientific Research Papers](https://github.com/namiyousef/novelty_detection)
-- ⚡ [AIHack 2021: how does developing low-income towns affect NOx levels?](https://github.com/namiyousef/ai_hack_2021)
-
-**Updates:**
-- 🔭 I’m currently working on an NLP based toolkit for detecting Novelty in scientific research papers
-- 🌱 I’m currently learning about Kubernetes, Airflow and MLFlow
-- 👯 I’m looking to collaborate on an NLP based reinforcement learning project for information retrieval
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+**Current Projects:**
+- ⚡ [In-N-Out: FastAPI app to universalise read-write](https://github.com/namiyousef/in-n-out)
+- ⚡ [In-N-Out-Clients: Library containing common read-write clients](https://github.com/namiyousef/in-n-out-clients)
+- ⚡ [Mix-N-Match: Polars Library for efficient and usable data processing](https://github.com/namiyousef/mix-n-match)
 
 **Social:**
 - ✏️ [Medium](https://namiyousef96.medium.com/)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/yousefnami77/)
-- 🌐 Website (Work in progress)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/namiyousef96)
 
 ### Languages and Tools
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=namiyousef&theme=radical)
